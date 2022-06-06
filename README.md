@@ -1,4 +1,4 @@
-# aluraplus
+# Aluraplus
 Página alura+ criada por mim, no decorrer do curso "Praticando Html e css". 
 ## Descrição da página.
 Esta pagina foi feita por mim e pela instrutora ao decorrer do curso "Praticando Html e css". O objetivo é apresentar os planos da plataforma Alura, e as formas que podemos acessa-lo. 
