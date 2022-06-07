@@ -9,4 +9,4 @@ Esta pagina foi feita por mim e pela instrutora ao decorrer do curso "Praticando
 * Mônica Hillman. 
 * Charlles Toledo. 
 ## Expressões de gratidão.
- Estou começando nos estudos nessa área, e mesmo sendo algo muito simples ja vejo como pequena conquista que está marcando apenas o início desta longa caminhada 🚀. 
+ Estou começando nos estudos nessa área, e mesmo sendo algo muito simples ja vejo como uma pequena conquista que está marcando apenas o início desta longa caminhada 🚀. 
