@@ -8,5 +8,9 @@ Esta pagina foi feita por mim e pela instrutora ao decorrer do curso "Praticando
 ## Autores. 
 * Mônica Hillman. 
 * Charlles Toledo. 
+
+## :computer: Acesso a página. 
+* Você pode acessar a pagina pelo link: https://aluraplus-vert.vercel.app/
+
 ## Expressões de gratidão.
  Estou começando nos estudos nessa área, e mesmo sendo algo muito simples ja vejo como uma pequena conquista que está marcando apenas o início desta longa caminhada 🚀. 
